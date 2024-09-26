@@ -1,2 +1,2 @@
-# cwt
-A tool to manage wallpaper themes using swww
+# Change Wallaper Theme (cwt)
+A tool to manage wallpaper themes using [swww](https://github.com/LGFae/swww)
