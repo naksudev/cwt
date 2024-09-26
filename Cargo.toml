@@ -1,0 +1,15 @@
+[package]
+name = "cwt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+home = "0.5.9"
+log = "0.4"
+rand = "0.8"
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9.34"
+simplelog = "0.11"
+toml = "0.5"
+
