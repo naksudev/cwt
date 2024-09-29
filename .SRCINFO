@@ -1,0 +1,14 @@
+pkgbase = cwt
+	pkgdesc = A tool to manage wallpaper themes using swww
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/naksudev/cwt
+	arch = x86_64
+	license = MIT
+	makedepends = rust
+	makedepends = cargo
+	depends = swww
+	source = git+https://github.com/naksudev/cwt#tag=v1.0.0
+	sha256sums = 49959c5e7b64b733e9e3a52157f0924911e54f24df6e40a386e328be501d4cb2
+
+pkgname = cwt
